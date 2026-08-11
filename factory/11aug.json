@@ -1,0 +1,15 @@
+{
+	"name": "11aug",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62128e6e-60a4-4eb2-942f-7a4c23dca78c",
+		"tenantId": "0713ee88-66a5-44d5-b6e5-8f01aa13ec67"
+	}
+}
